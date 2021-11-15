@@ -1,0 +1,23 @@
+.login_container {
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  display: flex;
+  background-color: rgb(231, 231, 231);
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit-btn {
+  align-content: center;
+}

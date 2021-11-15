@@ -1,0 +1,20 @@
+.category_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.category_grid {
+  height: 400px;
+  width: 80%;
+}
+
+.buttons_container {
+  margin-top: 20px;
+}
+
+.buttons_container Button {
+  margin: 20px;
+}
